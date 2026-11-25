@@ -1,4 +1,3 @@
-## Repository Contents
+# app-dev
 
-- [about-me.md](about-me.md) – Contains my personal introduction.
-- [favorites/movies.md](favorites/movies.md) – Contains my favorite movies.
+My first repository.
